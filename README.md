@@ -1,3 +1,12 @@
+gsheets :-https://docs.google.com/spreadsheets/d/1y_Yg2IdP07w4yxSFy3wIATSKhhDvfNvpZHg67XETaOs/edit?usp=drivesdk
+
+
+
+app script:- https://script.google.com/macros/s/AKfycbyNPOSCj92dRp5yutUCGraeaezsDk8kPOFP9e_g63x30WUSNS53JYp-pCChecfOc0RJ/exec
+
+
+
+
 # RFID Based Smart Attendance System 📡
 
 An IoT-based attendance management system using **NodeMCU ESP8266**, **MFRC522 RFID reader**, and **Google Sheets** for real-time cloud storage.
